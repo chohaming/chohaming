@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/amazonwebservices-ff9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=232F3E" />&nbsp
   <img src="https://img.shields.io/badge/apacheairflow-29F1FB.svg?style=for-the-badge&logo=apacheairflow&logoColor=232F3E" />&nbsp
   <img src="https://img.shields.io/badge/GitActions-000000.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
+  <img src="https://img.shields.io/badge/ubuntu-AEAAAA.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420" />&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=000000" />&nbsp
 </div>
 
 <div align="center">
