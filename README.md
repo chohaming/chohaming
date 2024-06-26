@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:jhklucky@gmail.com">
