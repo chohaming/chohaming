@@ -67,9 +67,9 @@
 
 <h3 align="center">✏️ Study log ✏️</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohaming&layout=donut" alt="Top Langs" />
   </a>
-  <br>
+  <br> -->
   <img src="https://github-readme-stats.vercel.app/api?username=chohaming&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
 </div>
